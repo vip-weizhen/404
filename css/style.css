@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  background-image: url("https://raw.githubusercontent.com/vip-weizhen/404/main/images/star.svg"), linear-gradient(to bottom, #05007A, #4D007D);
+  background-image: url("https://cdn.weizhen.xyz/https://raw.githubusercontent.com/vip-weizhen/404/main/images/star.svg"), linear-gradient(to bottom, #05007A, #4D007D);
   height: 100%;
   margin: 0;
   background-attachment: fixed;
@@ -28,7 +28,7 @@ body {
   bottom: 0;
   position: absolute;
   height: 27vmin;
-  background: url("https://raw.githubusercontent.com/vip-weizhen/404/main/images/mars.svg") no-repeat bottom center;
+  background: url("https://cdn.weizhen.xyz/https://raw.githubusercontent.com/vip-weizhen/404/main/images/mars.svg") no-repeat bottom center;
   background-size: cover;
 }
 
